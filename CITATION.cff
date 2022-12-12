@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kelly"
+  given-names: "Matthew Peter"
+  orcid: "https://orcid.org/0000-0001-6861-500X"
+title: "Toppling Stick: case study analysis for sliding contact mechanics"
+version: 1.0.0
+doi: 10.5281/zenodo.7425822
+date-released: 2022-12-11
+url: "https://github.com/MatthewPeterKelly/Toppling_Stick"
